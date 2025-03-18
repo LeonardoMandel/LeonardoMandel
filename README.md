@@ -1,7 +1,7 @@
 
 <!-- Presentation -->
 <p>
-  - My name is Leonardo M. Mandel! I'm technology enthusiast and development student.
+  - 🌱 My name is Leonardo M. Mandel! I'm technology enthusiast and development student.
 
   - 🌱 I’m currently studying analysis and development at Escola SESI 
 
