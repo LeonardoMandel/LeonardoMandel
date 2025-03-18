@@ -1,11 +1,9 @@
 
 <!-- Presentation -->
 <p>
-  - 🌱 My name is Leonardo M. Mandel! I'm technology enthusiast and development student.
+  -  My name is Leonardo M. Mandel! I'm technology enthusiast and development student.
 
-  - 🌱 I’m currently studying analysis and development at Escola SESI 
-
-  - 🔭 I am looking for my first job opportunity.
+  -  I’m currently studying mobile development at Escola SESI.
 </p>
 
 <!-- Dropdown -->
@@ -14,7 +12,7 @@
 
   -  I’m a 17-year-old living in Brazil, with intermediate English skills and experience working with JAVA, SQL, Power BI, and Excel.
 
-  - ⚡ I enjoy playing games, go to the gym and watch youtube videos for entertainment or learning !
+  -  I enjoy playing games, go to the gym and watch youtube videos for entertainment or learning !
 </details>
 
 <!-- Links -->
@@ -29,7 +27,7 @@
 
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=java,mysql" />
 
 <!-- Skills: Learning -->
   <div style="flex-basis: 48%;">
