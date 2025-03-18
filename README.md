@@ -1,17 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=70&section=header"/>
-
-<!--título-->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4B0082&center=true&width=435&lines=Hello+World" alt="Typing SVG">
-  </a>
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=00008B&height=3&section=header"/>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Leonardo M. Mandel! Mobile developer and development student.
+  My name is Leonardo M. Mandel! I'm technology enthusiast and development student.
 
   - 🌱 I’m currently studying analysis and development at Escola SESI 
 
@@ -30,7 +20,6 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mandel/)
 &nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white)](https://leonardo-mandel.vercel.app/)
 
 
 <!-- GithubStats -->
@@ -40,17 +29,17 @@
 
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=java,flutter,dart,lua,mysql,figma,git" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,git" />
 
 <!-- Skills: Learning -->
   <div style="flex-basis: 48%;">
     <h3>Learning</h3>
-        <img src="https://skillicons.dev/icons?i=js,html,css,python,react,supabase,postman,firebase,docker" />
+        <img src="https://skillicons.dev/icons?i=js,html,python" />
 
 <!-- Skills:  IDEs --> 
   <h3>IDEs</h3>
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" />
     
   
 <picture align="center">
