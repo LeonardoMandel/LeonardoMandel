@@ -43,7 +43,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardomandel/leonardomandel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardomandel/leonardomandel/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonardomandel/leonardomandel/output/github-contribution-grid-snake.svg">
+ 
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=70&section=footer"/>
