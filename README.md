@@ -10,7 +10,7 @@
 <details>
   <summary> About me</summary>
 
-  -  I’m a 17-year-old living in Brazil, with intermediate English skills and experience working with JAVA, SQL, Power BI, and Excel.
+  -  I’m a 18-year-old living in Brazil, with intermediate English skills and experience working with JAVA, SQL, Power BI, and Excel.
 
   -  I enjoy playing games, go to the gym and watch youtube videos for entertainment or learning !
 </details>
