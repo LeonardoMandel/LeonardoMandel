@@ -3,7 +3,7 @@
 <p>
   -  My name is Leonardo M. Mandel! I'm technology enthusiast and development student.
 
-  -  I’m currently studying mobile development at Escola SESI.
+  -  I’m currently studying JAVA development at Escola SESI.
 </p>
 
 <!-- Dropdown -->
